@@ -1,2 +1,4 @@
-# max
-醉卧花丛的自建机场
+vless://8213245d-4f3e-4904-b866-41ce259fbccc@103.160.204.172:80?encryption=none&security=none&sni=lixcyu.lixcyu1982.workers.dev&fp=randomized&type=ws&host=max.lixiaoyu.workers.dev&path=%2F%3Fed%3D2048#%F0%9F%92%9A11.28%E9%A6%99%E6%B8%AF%F0%9F%87%AD%F0%9F%87%B0%F0%9F%92%9A-clone
+vless://8213245d-4f3e-4904-b866-41ce259fbccc@104.19.56.24:2052?encryption=none&security=none&sni=lixcyu.lixcyu1982.workers.dev&fp=randomized&type=ws&host=lixcyu.lixcyu1982.workers.dev&path=%2F%3Fed%3D2048#11.25%E7%BE%8E%E5%9B%BD%F0%9F%87%BA%F0%9F%87%B8C%E2%99%A5
+vless://8213245d-4f3e-4904-b866-41ce259fbccc@154.92.9.148:80?encryption=none&security=none&sni=lixcyu.lixcyu1982.workers.dev&fp=randomized&type=ws&host=lixcyu.lixcyu1982.workers.dev&path=%2F%3Fed%3D2048#11.28%E5%A1%9E%E6%B5%A6%E8%B7%AF%E6%96%AF%F0%9F%87%A8%F0%9F%87%BE2%F0%9F%92%9A
+vless://8213245d-4f3e-4904-b866-41ce259fbccc@162.159.152.5:2052?encryption=none&security=none&sni=lixcyu.lixcyu1982.workers.dev&fp=randomized&type=ws&host=lixcyu.lixcyu1982.workers.dev&path=%2F%3Fed%3D2048#11.25%E7%BE%8E%E5%9B%BD%F0%9F%87%BA%F0%9F%87%B8D%E2%99%A5
